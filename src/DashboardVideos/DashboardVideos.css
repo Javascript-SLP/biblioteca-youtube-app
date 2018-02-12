@@ -1,0 +1,14 @@
+.container {
+	display: inline-block;
+	position: relative;
+	vertical-align: top;
+	width: 80%;
+}
+
+.container input {
+	display: block;
+	position: relative;
+	margin: 20px auto;
+	padding: 8px 12px;
+	width: 80%;
+}

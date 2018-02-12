@@ -1,0 +1,20 @@
+.menu-panel {
+	background: #212121;
+	display: inline-block;
+	position: relative;
+	font-family: sans-serif;
+	margin: 0;
+	height: 100vh;
+	left: 0;
+	top: 0;
+	vertical-align: top;
+	width: 20%;
+}
+
+.menu-panel h1 {
+	color: #fff;
+	font-weight: 400;
+	padding: 10px 12px;
+	font-size: 18px;
+	text-transform: uppercase;
+}

@@ -1,0 +1,11 @@
+.video-list {
+  display: 'flex';
+  justify-content: 'space-evenly';
+  width: 100%;
+}
+
+.video-list__iframe{
+  margin: 4px 1%;
+  height: 25vh;
+  width: 30%;
+}
